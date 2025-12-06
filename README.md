@@ -99,28 +99,30 @@ This project demonstrates practical skills in **GRC (Governance, Risk & Complian
 ---
 
 ## 🎓 What This Project Shows Employers
-This project demonstrates that I can:
+This project demonstrates my ability to:
 
-- Perform a full NIST CSF–based internal audit  
-- Evaluate real-world security controls  
-- Identify risks and compliance gaps  
-- Produce professional audit documentation  
-- Communicate findings clearly to technical and non-technical stakeholders  
+- Perform a full **NIST CSF–based internal audit**
+- Evaluate **real-world security controls** used in enterprise environments
+- Identify and prioritize **risks, gaps, and compliance issues**
+- Produce **professional audit documentation** used by security and compliance teams
+- Communicate findings clearly to both **technical and non-technical stakeholders**
+- Apply security best practices to strengthen an organization’s **overall security posture**
+ 
+## 📌 Roles This Project Aligns With
 
-These are essential skills for:
+The skills demonstrated in this project are directly relevant to:
 
-- **Cybersecurity Analyst**  
-- **GRC Analyst**  
-- **Compliance Analyst**  
-- **IT Internal Auditor**  
-- **SOC Analyst (Tier 1)**  
-
+- **Cybersecurity Analyst (Entry Level)**
+- **GRC Analyst**
+- **Compliance Analyst**
+- **IT Internal Auditor**
+- **SOC Analyst – Tier 1**
 ---
 
 ## 📬 Contact  
 If you’d like to connect, collaborate, or view more projects:
 
-**GitHub Portfolio:** *link to your main portfolio repo*  
+**GitHub Portfolio: https://github.com/michaelhanna97  
 **LinkedIn:** *your LinkedIn link*  
 
 ---
