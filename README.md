@@ -1,7 +1,7 @@
 # 🛡️ NIST Cybersecurity Framework Internal Audit – Botium Toys Case Study
 
 ## 📌 Overview
-This project is a full cybersecurity internal audit performed on the fictional company **Botium Toys**, using the **NIST Cybersecurity Framework (CSF)** as the primary assessment model.  
+This project is a comprehensive internal cybersecurity audit conducted on the fictional company **Botium Toys**, utilizing the **NIST Cybersecurity Framework (CSF)** as the primary assessment model.  
 
 The audit includes:
 - A **Controls Assessment Checklist**
@@ -16,7 +16,7 @@ This project demonstrates practical skills in **GRC (Governance, Risk & Complian
 ## 🗂️ Project Files
 | File | Description |
 |------|-------------|
-| **Botium-Toys-NIST-Controls-Compliance-Checklist.pdf** | Full internal audit checklist + compliance evaluation + recommendations. |
+| **[Botium-Toys-NIST-Controls-Compliance-Checklist.pdf](https://github.com/michaelhanna97/botium-toys-nist-csf-audit)** | Full internal audit checklist + compliance evaluation + recommendations. |
 | **Internal Audit Report Summary** | Included inside the PDF. |
 
 ---
@@ -59,7 +59,7 @@ This project demonstrates practical skills in **GRC (Governance, Risk & Complian
 
 ### ⚠️ Compliance Gaps
 **PCI DSS**  
-- Credit card data not restricted to authorized users  
+- Credit card data is not restricted to authorized users  
 - No encryption at transaction or storage points  
 - No secure cardholder data environment  
 - No strong password policy  
@@ -72,7 +72,7 @@ This project demonstrates practical skills in **GRC (Governance, Risk & Complian
 **SOC 1 & SOC 2**  
 - Missing user access policies  
 - Confidentiality of PII/SPII not fully enforced  
-- Data availability processes incomplete  
+- Data availability processes are incomplete  
 
 ---
 
@@ -127,4 +127,4 @@ If you’d like to connect, collaborate, or view more projects:
 
 ## 📎 Citation
 The full controls and compliance checklist used in this project is included in this repository:  
-Botium-Toys-NIST-Controls-Compliance-Checklist.pdf
+[Botium-Toys-NIST-Controls-Compliance-Checklist.pdf](https://github.com/michaelhanna97/botium-toys-nist-csf-audit)
